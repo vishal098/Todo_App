@@ -4,7 +4,7 @@
 
 
 ## Clone the repo
-  Git clone https://github.com/vishal098/Todo_app
+  Git clone https://github.com/vishal098/Todo_app.git
 
 ## Installation
 
@@ -26,7 +26,7 @@ npm start
   * user has authority to assgn the task to other user which is availave in our database.
   * i have emplementhttps://github.com/vishal098/Todo_app some filter method also for getting data 
 
-if u are using postman for testing so u should give the email & password in hearder for auth
+if u are using postman for testing so u should give the email & password in header for auth
 ```
 
 ## Controling
